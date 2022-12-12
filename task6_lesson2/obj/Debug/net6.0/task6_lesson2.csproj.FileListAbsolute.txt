@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\bin\Debug\net6.0\task6_lesson2.exe
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\bin\Debug\net6.0\task6_lesson2.deps.json
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\bin\Debug\net6.0\task6_lesson2.runtimeconfig.json
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\bin\Debug\net6.0\task6_lesson2.dll
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\bin\Debug\net6.0\task6_lesson2.pdb
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.dll
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\refint\task6_lesson2.dll
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.pdb
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\task6_lesson2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GB\GB_programming-seminars\task6_lesson2\obj\Debug\net6.0\ref\task6_lesson2.dll

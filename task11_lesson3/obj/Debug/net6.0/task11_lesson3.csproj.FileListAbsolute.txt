@@ -1,0 +1,15 @@
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\bin\Debug\net6.0\task11_lesson3.exe
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\bin\Debug\net6.0\task11_lesson3.deps.json
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\bin\Debug\net6.0\task11_lesson3.runtimeconfig.json
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\bin\Debug\net6.0\task11_lesson3.dll
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\bin\Debug\net6.0\task11_lesson3.pdb
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.csproj.AssemblyReference.cache
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.AssemblyInfoInputs.cache
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.AssemblyInfo.cs
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.dll
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\refint\task11_lesson3.dll
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.pdb
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\task11_lesson3.genruntimeconfig.cache
+C:\Users\Olga\Documents\GitHub\GB_programming-seminars\task11_lesson3\obj\Debug\net6.0\ref\task11_lesson3.dll
