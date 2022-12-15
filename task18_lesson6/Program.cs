@@ -5,32 +5,58 @@
 // Вводим сразу все числа в одну линию, не через бесконечное кол-во ReadLine.
 
 
-int[,] GetArray(int m, int n, int minValue, int maxValue)
+Console.Write("Введите числа через запятую: ");
+int[] numbers = StringToNum(Console.ReadLine());
+PrintArray(numbers);
+int sum = 0;
+for (int i = 0; i < numbers.Length; i++)
 {
-int[,] result = new int[m, n];
-for (int i = 0; i < m; i++)
+if (numbers[i] > 0)
 {
-for (int j = 0; j < n; j++)
-{
-result[i, j] = new Random().Next(minValue, maxValue + 1);
+sum++;
 }
-}
-return result;
-}
-void PrintArray(int[,] inArray)
-{
-for (int row = 0; row < inArray.GetLength(0); row++)
-{
-for (int column = 0; column < inArray.GetLength(1); column++)
-{
-Console.Write($"{inArray[row,column]} ");
 }
 Console.WriteLine();
+Console.WriteLine($"количество значений больше 0 = {sum}");
+int[] StringToNum(string input)
+{
+int count = 1;
+for (int i = 0; i < input.Length; i++)
+{
+if (input[i] == ',')
+{
+count++;
 }
 }
-Console.Write("Введите количество строк массива: ");
-int rows=Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите количество столбцов массива: ");
-int columns=Convert.ToInt32(Console.ReadLine());
-int[,] array = GetArray(rows, columns, 0, 10);
-PrintArray(array);
+int[] numbers = new int [count];
+int index = 0;
+for (int i = 0; i < input.Length; i++)
+{
+string temp = "";
+while (input [i] != ',')
+{
+if(i != input.Length - 1)
+{
+temp += input [i].ToString();
+i++;
+}
+else
+{
+temp += input [i].ToString();
+break;
+}
+}
+numbers[index] = Convert.ToInt32(temp);
+index++;
+}
+return numbers;
+}
+void PrintArray(int[] array)
+{
+Console.Write("[ ");
+for (int i = 0; i < array.Length; i++)
+{
+Console.Write(array[i] + " ");
+}
+Console.Write("]");
+}

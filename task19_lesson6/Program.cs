@@ -6,13 +6,13 @@
 
 Console.WriteLine ("Введите значения k1, b1, k2 и b2: ");
 Console.WriteLine("k1:");
-double k1=Convert.ToDouble(Console.ReadLine());
+double k1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("b1:");
-double b1=Convert.ToDouble(Console.ReadLine());
+double b1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("k2:");
-double k2=Convert.ToDouble(Console.ReadLine());
+double k2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("b2:");
-double b2=Convert.ToDouble(Console.ReadLine());
+double b2 = Convert.ToDouble(Console.ReadLine());
 double x = 0;
 double y = 0;
 if (k1 == k2 & b1 == b2) 
@@ -21,7 +21,13 @@ else if (k1 == k2)
 Console.WriteLine("Прямые параллельны друг другу ");
 else 
 {
+    var dots = FindXandY(b1, b2, k1, k2);
+    Console.WriteLine("Точка пересечения " + " (" + dots.x + " ; " + dots.y + " )");
+}
+
+(double x, double y) FindXandY(double b1, double b2, double k1, double k2)
+{
     x = (b2 - b1) / (k1 - k2);
     y = k1 * x + b1;
-    Console.WriteLine("Точка пересечения " + " (" + x + " ; " + y + " )");
+    return (x,y);
 }
